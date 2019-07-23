@@ -1,5 +1,5 @@
 package day05;
-// K¹øÂ° ¼ö
+// Kë²ˆì§¸ ìˆ˜
 import java.util.Arrays;
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
