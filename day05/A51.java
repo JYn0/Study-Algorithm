@@ -1,5 +1,5 @@
 package day05;
-// 완주하지 
+// 완주하지못한선수
 import java.util.Arrays;
 class Solution {
     public String solution(String[] participant, String[] completion) {
