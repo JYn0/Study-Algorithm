@@ -1,5 +1,5 @@
 package day05;
-// ¿ÏÁÖÇÏÁö ¸øÇÑ ¼±¼ö
+// ì™„ì£¼í•˜ì§€ 
 import java.util.Arrays;
 class Solution {
     public String solution(String[] participant, String[] completion) {
